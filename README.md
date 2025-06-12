@@ -3,11 +3,11 @@
 
 **You can see another responsive Project with tailwind that one of the most intrested frameword can desing responsive website with that  🌎 **
 
-![Image](https://github.com/user-attachments/assets/d995b273-c125-45a4-ae0a-beac36aed658)
+![Image](https://github.com/user-attachments/assets/1f3d4c6c-bf2e-49e3-8552-e49e4ae25519)
 
-![Image](https://github.com/user-attachments/assets/19d1f606-aae2-480b-a576-4d1ef4fe85fc)
+![Image](https://github.com/user-attachments/assets/95f6ca87-ca19-41d5-a4fb-fb8eb5c8ec64)
 
-![Image](https://github.com/user-attachments/assets/7d055093-3cca-4d52-b0a4-71ac62aaae2c)
+![Image](https://github.com/user-attachments/assets/ccf5484a-f363-44e5-932f-8d525f93c116)
 
 - [Demo Project]()
 
