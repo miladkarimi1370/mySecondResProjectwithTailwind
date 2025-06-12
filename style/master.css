@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer Base {
+    .row {
+        @apply flex flex-wrap
+    }
+}
+
+@layer Components {}
+
+@layer Utilities {
+  
+}
+
+.myCustomTransition {
+    &::after {
+        transition: all 1s linear;
+    }
+
+}
