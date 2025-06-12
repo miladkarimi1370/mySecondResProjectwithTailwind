@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT , REACT , MATERIAL UI , TAILWIND CSS , NEXT**
 
-- 📫 How to reach me **milad.kar.gh.2018@gmail.com**
+- 📫 How to reach me **https://milad.kar.gh.2018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
